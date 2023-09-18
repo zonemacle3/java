@@ -40,46 +40,46 @@ public class ex5for {
     System.out.print("Choose number = ");
     int number = in.nextInt();
      if (number == 1) {
-           System.out.println("Start = ");
-           System.out.println("Enter the first number = ");
+           System.out.println("Start : ");
+           System.out.print("Enter the first number = ");
            int number1 = in.nextInt();
-           System.out.println("Enter the second number = ");
+           System.out.print("Enter the second number = ");
            int number2 = in.nextInt();
-        System.out.println("result = ");
+        System.out.print("result = ");
         System.out.println(number1 + number2);
         }
          else if (number == 2) {
-              System.out.println("Start = ");
-           System.out.println("Enter the first number = ");
+              System.out.println("Start : ");
+           System.out.print("Enter the first number = ");
            int number1 = in.nextInt();
-           System.out.println("Enter the second number = ");
+           System.out.print("Enter the second number = ");
            int number2 = in.nextInt();
-        System.out.println("result = ");
+        System.out.print("result = ");
         System.out.println(number1 - number2);
         }
          else if (number == 3) {
-                System.out.println("Start = ");
-           System.out.println("Enter the first number = ");
+                System.out.println("Start : ");
+           System.out.print("Enter the first number = ");
            int number1 = in.nextInt();
-           System.out.println("Enter the second number = ");
+           System.out.print("Enter the second number = ");
            int number2 = in.nextInt();
-        System.out.println("result = ");
+        System.out.print("result = ");
         System.out.println(number1 * number2);
         }
          else if (number == 4) {
-                System.out.println("Start = ");
-           System.out.println("Enter the first number = ");
+                System.out.println("Start : ");
+           System.out.print("Enter the first number = ");
            int number1 = in.nextInt();
-           System.out.println("Enter the second number = ");
+           System.out.print("Enter the second number = ");
            int number2 = in.nextInt();
-        System.out.println("result = ");
+        System.out.print("result = ");
         System.out.println(number1 / number2);
         }
         else if (number == 5){
-                System.out.println("Start = ");
-           System.out.println("Enter the first number = ");
+                System.out.println("Start : ");
+           System.out.print("Enter the first number = ");
            int number1 = in.nextInt();
-           System.out.println("Enter the second number = ");
+           System.out.print("Enter the second number = ");
            int number2 = in.nextInt();
         System.out.println("result = ");
         System.out.println(number1 + number2);
