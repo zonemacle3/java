@@ -5,7 +5,5 @@ public class Mycounter {
     
     //생성자 선언 
 
-    Mycounter(int value){
-        counter = value;
-    }
+    Mycounter(int value){counter = value;}
 }

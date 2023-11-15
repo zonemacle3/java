@@ -13,9 +13,7 @@ public class eX6 {
         for(int i = 0;i < s1.length();i++){
           //  if(Character.isUpperCase(s1.charAt(i)))
            // count ++;
-           if(s1.charAt(i) != s2.charAt(i)){
-            count++;
-           }
+           if(s1.charAt(i) != s2.charAt(i)){count++;}
         }
         System.out.println();
         System.out.println("대문자의 수는 "+count+"개 입니다.");

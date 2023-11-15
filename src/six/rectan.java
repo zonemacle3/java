@@ -1,5 +1,5 @@
 package six;
-
+import java.io.*;
 public class rectan extends shap{
  
     private int width;

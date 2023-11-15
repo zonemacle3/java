@@ -1,4 +1,5 @@
 package five;
+
 class A{
     public int c; // 공용
     private int a; // 전용

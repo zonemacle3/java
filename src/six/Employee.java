@@ -20,10 +20,7 @@ public class Employee {
    public void setrnn(int rnn){
     this.rnn=rnn;
    }
-    public void String(){
-        System.out.println("name="+name+"\n"+"address="+address+"\n"+"salary = "+salary);
-    }
-
+   
     public void rnn(){
         System.out.println(rnn); 
     }
