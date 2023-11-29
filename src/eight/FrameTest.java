@@ -9,8 +9,6 @@ public static void main(String[] args) {
     j.setSize(300,200); // frame의 크기 
     j.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // frame 안에 있는 모든걸 
     j.setVisible(true); // 컨테이너 만든걸 화면에 보여줄건지 선택하는것 
-
-
 }
     
 }

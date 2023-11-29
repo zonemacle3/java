@@ -9,6 +9,7 @@ public class BOX {
     public int getVolume(){
         return volume; // getvolume 을 통해 volume결과를 불러옴 
     }
+    
     BOX(int w, int l, int h){
         width = w;
         length = l;

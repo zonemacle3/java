@@ -8,7 +8,7 @@ public class MyFrame extends JFrame implements ActionListener{
 
     private JButton button;
     private JLabel label;
-    
+
     public MyFrame(){
 
         this.setSize(300,200);
